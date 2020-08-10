@@ -1,13 +1,13 @@
 {
-  "name": "black-power-robot",
+  "name": "epic-splitter-bot",
   "version": "1.0.0",
   "private": true,
-  "description": "This is really good bot! Make issues for revision your english",
+  "description": "Split your epic in many issues",
   "author": "Eduardo de Moura Rodrigues <eduardom.rodrigues@gmail.com.br>",
   "license": "ISC",
-  "repository": "https://github.com/eduardomrodrigues/black-power-robot.git",
-  "homepage": "https://github.com/eduardomrodrigues/black-power-robot",
-  "bugs": "https://github.com/eduardomrodrigues/black-power-robot/issues",
+  "repository": "https://github.com/cubcoffee/epic-splitter-bot.git",
+  "homepage": "https://github.com/cubcoffee/epic-splitter-bot.git",
+  "bugs": "https://github.com/cubcoffee/epic-splitter-bot.git",
   "keywords": [
     "probot",
     "github",
